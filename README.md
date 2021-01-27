@@ -9,19 +9,19 @@ Keyless offers unmatched security, privacy and usability. Our solution allows yo
 As part of your onboarding process with Keyless, you should have received the following:
 
 -   OpenID Connect Client ID
-    
+
 -   OpenID Connect Secret
-    
+
 -   OpenID Discovery URL
-    
+
 
 If you do not have one or more of these items, please reach out to *support@keyless.io*.
 
 ## Configuration
 
 1.  Create or modify a tree to use the OpenID Connect Node
-    
 
+![Keyless Node](media/kyls-node.png "Keyless Node")
 
 2.  Enter the following values for each configuration option in the OpenID Connect Node
 
