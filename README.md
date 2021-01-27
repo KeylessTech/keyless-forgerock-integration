@@ -20,9 +20,9 @@ If you do not have one or more of these items, please reach out to _support@keyl
 
 1.  Create or modify a tree to use the OpenID Connect Node
 
-<center>
+<p align="center">
   <img src="media/kyls-node.png">
-</center>
+</p>
 
 2.  Enter the following values for each configuration option in the OpenID Connect Node
 
